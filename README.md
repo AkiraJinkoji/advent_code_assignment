@@ -1,4 +1,4 @@
-# Cadidature pour Wandercraft - Advent of Code Challenge
+# Advent of Code Challenge
 
 Ce dépôt contient mes solutions aux quatre premiers problèmes de l’Advent of Code 2025.
 
